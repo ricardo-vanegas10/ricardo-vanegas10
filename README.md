@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Jquery and Javascript**
 
-- 📫 How to reach me **rick1095@hotmail.com**
+- 📫 How to reach me **rick1095@hotmail.com | ricky109529@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
