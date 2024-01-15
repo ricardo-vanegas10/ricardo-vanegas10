@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo Vanegas</h1>
 <h3 align="center">A passionate freelance frontend developer from Colombia</h3>
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Jquery and Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript and PHP**
 
 - 📫 How to reach me **rick1095@hotmail.com | ricky109529@gmail.com**
 
