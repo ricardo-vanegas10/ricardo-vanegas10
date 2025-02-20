@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ricardo Vanegas</h1>
-<h3 align="center">A passionate freelance Web developer from Colombia</h3>
+<h1 align="center">Hi 👋, I'm Rick</h1>
+<h3 align="center">A passionate freelance Web developer</h3>
 
 - 💬 Ask me about **HTML, CSS, Javascript and PHP**
 
